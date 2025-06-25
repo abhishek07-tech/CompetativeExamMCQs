@@ -1,0 +1,86 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to bottom, #e0eafc, #cfdef3);
+  margin: 0;
+  padding: 0;
+  transition: 0.3s background;
+}
+body.dark {
+  background: #121212;
+  color: #fff;
+}
+.container {
+  max-width: 900px;
+  margin: 30px auto;
+  background: #fff;
+  padding: 25px 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+body.dark .container {
+  background: #1e1e1e;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.theme-switch {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+}
+select {
+  display: block;
+  margin: 0 auto 20px;
+  font-size: 16px;
+  padding: 6px 12px;
+  border-radius: 5px;
+}
+.question {
+  margin-bottom: 20px;
+}
+.options label {
+  display: block;
+  margin-bottom: 8px;
+}
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  opacity: 0.9;
+}
+.nav-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.nav-buttons button:nth-child(2) {
+  background-color: #007BFF;
+  color: white;
+}
+.nav-buttons button:nth-child(1) {
+  background-color: #6c757d;
+  color: white;
+}
+.nav-buttons button:nth-child(3) {
+  background-color: #28a745;
+  color: white;
+}
+#result {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+#timer {
+  text-align: center;
+  font-size: 18px;
+  color: #d9534f;
+  margin-bottom: 10px;
+}

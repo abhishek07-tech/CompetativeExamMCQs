@@ -1,0 +1,2952 @@
+[
+  {
+    "question": "What is the SI unit of electric power?",
+    "options": [
+      "Watt",
+      "Joule",
+      "Volt",
+      "Ampere"
+    ],
+    "answer": "Watt",
+    "category": "Electricity"
+  },
+  {
+    "question": "What does 1 watt of electric power represent?",
+    "options": [
+      "1 joule of energy per second",
+      "1 volt per ampere",
+      "1 ampere per second",
+      "1 joule per minute"
+    ],
+    "answer": "1 joule of energy per second",
+    "category": "Electricity"
+  },
+  {
+    "question": "Which unit is commonly used to measure electric power in households?",
+    "options": [
+      "Kilowatt",
+      "Megajoule",
+      "Millivolt",
+      "Microampere"
+    ],
+    "answer": "Kilowatt",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the formula for electric power in a circuit?",
+    "options": [
+      "P = V \u00d7 I",
+      "P = I / V",
+      "P = V\u00b2 / R",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "category": "Electricity"
+  },
+  {
+    "question": "How many watts are equal to 1 kilowatt?",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "10000"
+    ],
+    "answer": "1000",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the practical unit of electrical energy?",
+    "options": [
+      "Kilowatt-hour (kWh)",
+      "Joule",
+      "Watt-second",
+      "Volt-ampere"
+    ],
+    "answer": "Kilowatt-hour (kWh)",
+    "category": "Electricity"
+  },
+  {
+    "question": "How many joules are equal to 1 kilowatt-hour?",
+    "options": [
+      "3.6 \u00d7 10\u00b3 J",
+      "3.6 \u00d7 10\u2076 J",
+      "3.6 \u00d7 10\u2079 J",
+      "3.6 \u00d7 10\u00b9\u00b2 J"
+    ],
+    "answer": "3.6 \u00d7 10\u2076 J",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the cost of electricity typically based on?",
+    "options": [
+      "Kilowatt",
+      "Kilowatt-hour",
+      "Ampere",
+      "Volt"
+    ],
+    "answer": "Kilowatt-hour",
+    "category": "Electricity"
+  },
+  {
+    "question": "Which of the following is a practical unit for measuring electricity consumption?",
+    "options": [
+      "Ohm",
+      "Kilowatt-hour",
+      "Coulomb",
+      "Henry"
+    ],
+    "answer": "Kilowatt-hour",
+    "category": "Electricity"
+  },
+  {
+    "question": "What device measures electrical energy consumption in homes?",
+    "options": [
+      "Ammeter",
+      "Voltmeter",
+      "Energy meter",
+      "Ohmmeter"
+    ],
+    "answer": "Energy meter",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the magnetic effect of electric current?",
+    "options": [
+      "Production of heat",
+      "Production of a magnetic field",
+      "Chemical reactions",
+      "Light emission"
+    ],
+    "answer": "Production of a magnetic field",
+    "category": "Electricity"
+  },
+  {
+    "question": "Who discovered the magnetic effect of electric current?",
+    "options": [
+      "Michael Faraday",
+      "Hans Christian Oersted",
+      "Andre-Marie Ampere",
+      "James Clerk Maxwell"
+    ],
+    "answer": "Hans Christian Oersted",
+    "category": "Electricity"
+  },
+  {
+    "question": "What happens when an electric current passes through a wire near a compass?",
+    "options": [
+      "The compass needle deflects",
+      "The wire heats up",
+      "The wire breaks",
+      "The compass stops"
+    ],
+    "answer": "The compass needle deflects",
+    "category": "Electricity"
+  },
+  {
+    "question": "Which device uses the magnetic effect of electric current?",
+    "options": [
+      "Electric heater",
+      "Electric motor",
+      "Battery",
+      "Light bulb"
+    ],
+    "answer": "Electric motor",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the right-hand rule used for in the magnetic effect?",
+    "options": [
+      "To find current direction",
+      "To determine magnetic field direction",
+      "To measure voltage",
+      "To calculate resistance"
+    ],
+    "answer": "To determine magnetic field direction",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the chemical effect of electric current?",
+    "options": [
+      "Production of heat",
+      "Decomposition of compounds",
+      "Generation of magnetic fields",
+      "Emission of light"
+    ],
+    "answer": "Decomposition of compounds",
+    "category": "Electricity"
+  },
+  {
+    "question": "Which process uses the chemical effect of electric current?",
+    "options": [
+      "Electroplating",
+      "Heating",
+      "Magnetization",
+      "Illumination"
+    ],
+    "answer": "Electroplating",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is produced at the electrodes during electrolysis?",
+    "options": [
+      "Heat",
+      "Gases or metals",
+      "Magnetic fields",
+      "Light"
+    ],
+    "answer": "Gases or metals",
+    "category": "Electricity"
+  },
+  {
+    "question": "Which solution is commonly used in electroplating?",
+    "options": [
+      "Salt water",
+      "Copper sulfate",
+      "Sugar solution",
+      "Vinegar"
+    ],
+    "answer": "Copper sulfate",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the role of the electrolyte in the chemical effect?",
+    "options": [
+      "To conduct electricity",
+      "To generate heat",
+      "To produce light",
+      "To create magnetism"
+    ],
+    "answer": "To conduct electricity",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the heating effect of electric current?",
+    "options": [
+      "Production of magnetic fields",
+      "Generation of heat in a conductor",
+      "Chemical decomposition",
+      "Emission of light"
+    ],
+    "answer": "Generation of heat in a conductor",
+    "category": "Electricity"
+  },
+  {
+    "question": "Which law explains the heating effect of electric current?",
+    "options": [
+      "Ohm\u2019s Law",
+      "Joule\u2019s Law",
+      "Faraday\u2019s Law",
+      "Ampere\u2019s Law"
+    ],
+    "answer": "Joule\u2019s Law",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the formula for heat produced by electric current?",
+    "options": [
+      "H = I\u00b2Rt",
+      "H = V / I",
+      "H = P \u00d7 t",
+      "H = R / V"
+    ],
+    "answer": "H = I\u00b2Rt",
+    "category": "Electricity"
+  },
+  {
+    "question": "Which device uses the heating effect of electric current?",
+    "options": [
+      "Electric motor",
+      "Electric heater",
+      "Generator",
+      "Transformer"
+    ],
+    "answer": "Electric heater",
+    "category": "Electricity"
+  },
+  {
+    "question": "What factor increases the heat produced in a conductor?",
+    "options": [
+      "Lower resistance",
+      "Higher current",
+      "Lower voltage",
+      "Shorter time"
+    ],
+    "answer": "Higher current",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is an electric fuse?",
+    "options": [
+      "A device to generate electricity",
+      "A safety device to protect circuits",
+      "A type of bulb",
+      "A power source"
+    ],
+    "answer": "A safety device to protect circuits",
+    "category": "Electricity"
+  },
+  {
+    "question": "What material is commonly used in an electric fuse?",
+    "options": [
+      "Copper",
+      "Aluminum",
+      "Lead-tin alloy",
+      "Iron"
+    ],
+    "answer": "Lead-tin alloy",
+    "category": "Electricity"
+  },
+  {
+    "question": "What happens when current exceeds the fuse rating?",
+    "options": [
+      "The fuse melts",
+      "The circuit speeds up",
+      "The bulb brightens",
+      "The voltage increases"
+    ],
+    "answer": "The fuse melts",
+    "category": "Electricity"
+  },
+  {
+    "question": "Where is an electric fuse typically installed?",
+    "options": [
+      "In series with the circuit",
+      "In parallel with the circuit",
+      "Inside the bulb",
+      "Outside the device"
+    ],
+    "answer": "In series with the circuit",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the purpose of a fuse in an electric circuit?",
+    "options": [
+      "To increase current",
+      "To prevent overheating and fire hazards",
+      "To generate heat",
+      "To measure voltage"
+    ],
+    "answer": "To prevent overheating and fire hazards",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is an electric bulb?",
+    "options": [
+      "A device to store electricity",
+      "A device that converts electrical energy to light",
+      "A safety device",
+      "A power source"
+    ],
+    "answer": "A device that converts electrical energy to light",
+    "category": "Electricity"
+  },
+  {
+    "question": "Which gas is filled in some electric bulbs to increase lifespan?",
+    "options": [
+      "Oxygen",
+      "Argon",
+      "Carbon dioxide",
+      "Nitrogen"
+    ],
+    "answer": "Argon",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the filament material in an incandescent bulb?",
+    "options": [
+      "Copper",
+      "Tungsten",
+      "Aluminum",
+      "Iron"
+    ],
+    "answer": "Tungsten",
+    "category": "Electricity"
+  },
+  {
+    "question": "How does an electric bulb produce light?",
+    "options": [
+      "Through magnetic fields",
+      "Through heating the filament",
+      "Through chemical reactions",
+      "Through electric current alone"
+    ],
+    "answer": "Through heating the filament",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is a disadvantage of incandescent bulbs?",
+    "options": [
+      "High efficiency",
+      "High energy consumption",
+      "Long lifespan",
+      "Low cost"
+    ],
+    "answer": "High energy consumption",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is an electric cell?",
+    "options": [
+      "A device to measure current",
+      "A source of electrical energy through chemical reactions",
+      "A type of fuse",
+      "A light bulb"
+    ],
+    "answer": "A source of electrical energy through chemical reactions",
+    "category": "Electricity"
+  },
+  {
+    "question": "What are the two main parts of an electric cell?",
+    "options": [
+      "Anode and cathode",
+      "Fuse and wire",
+      "Bulb and filament",
+      "Magnet and coil"
+    ],
+    "answer": "Anode and cathode",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the electrolyte in a simple electric cell?",
+    "options": [
+      "Copper sulfate",
+      "Dilute sulfuric acid",
+      "Salt water",
+      "Pure water"
+    ],
+    "answer": "Dilute sulfuric acid",
+    "category": "Electricity"
+  },
+  {
+    "question": "What happens when an electric cell is used?",
+    "options": [
+      "It produces light",
+      "It generates heat",
+      "Its chemical energy converts to electrical energy",
+      "It creates a magnetic field"
+    ],
+    "answer": "Its chemical energy converts to electrical energy",
+    "category": "Electricity"
+  },
+  {
+    "question": "What limits the lifespan of an electric cell?",
+    "options": [
+      "Overheating",
+      "Depletion of chemicals",
+      "High voltage",
+      "Magnetic interference"
+    ],
+    "answer": "Depletion of chemicals",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is a dry cell?",
+    "options": [
+      "A cell with liquid electrolyte",
+      "A cell with a paste electrolyte",
+      "A type of fuse",
+      "A light source"
+    ],
+    "answer": "A cell with a paste electrolyte",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the positive terminal of a dry cell made of?",
+    "options": [
+      "Zinc",
+      "Carbon",
+      "Copper",
+      "Iron"
+    ],
+    "answer": "Carbon",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the negative terminal of a dry cell?",
+    "options": [
+      "Carbon",
+      "Zinc",
+      "Aluminum",
+      "Steel"
+    ],
+    "answer": "Zinc",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is an advantage of a dry cell over a wet cell?",
+    "options": [
+      "Higher voltage",
+      "Portability",
+      "Stronger magnetic field",
+      "Longer lifespan"
+    ],
+    "answer": "Portability",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is a common use of dry cells?",
+    "options": [
+      "Powering large appliances",
+      "Powering flashlights",
+      "Generating heat",
+      "Electroplating"
+    ],
+    "answer": "Powering flashlights",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is electromotive force (EMF)?",
+    "options": [
+      "The force of electricity",
+      "The potential difference generated by a source",
+      "The resistance in a circuit",
+      "The magnetic field strength"
+    ],
+    "answer": "The potential difference generated by a source",
+    "category": "Electricity"
+  },
+  {
+    "question": "What is the SI unit of electromotive force?",
+    "options": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
+    "answer": "Volt",
+    "category": "Electricity"
+  },
+  {
+    "question": "What factor does not affect the EMF of a cell?",
+    "options": [
+      "Type of electrolyte",
+      "Temperature",
+      "Length of the wire",
+      "Concentration of electrolyte"
+    ],
+    "answer": "Length of the wire",
+    "category": "Electricity"
+  },
+  {
+    "question": "What happens to EMF when a cell is short-circuited?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains constant",
+      "It becomes zero"
+    ],
+    "answer": "It becomes zero",
+    "category": "Electricity"
+  },
+  {
+    "question": "How is EMF related to the internal resistance of a cell?",
+    "options": [
+      "EMF increases with internal resistance",
+      "EMF is reduced by internal resistance",
+      "EMF is unaffected by internal resistance",
+      "EMF equals internal resistance"
+    ],
+    "answer": "EMF is reduced by internal resistance",
+    "category": "Electricity"
+  },
+  {
+    "number": 1,
+    "question": "What is a natural magnet primarily composed of?",
+    "options": [
+      "Iron",
+      "Lodestone (Magnetite)",
+      "Copper",
+      "Aluminum"
+    ],
+    "answer": "Lodestone (Magnetite)",
+    "category": "Magnetism"
+  },
+  {
+    "number": 2,
+    "question": "Where were natural magnets first discovered?",
+    "options": [
+      "Greece (Magnesia)",
+      "Egypt",
+      "China",
+      "India"
+    ],
+    "answer": "Greece (Magnesia)",
+    "category": "Magnetism"
+  },
+  {
+    "number": 3,
+    "question": "Which of the following is a characteristic of a natural magnet?",
+    "options": [
+      "Uniform magnetic strength",
+      "Found in pure metallic form",
+      "Naturally occurring magnetic properties",
+      "Always perfectly shaped"
+    ],
+    "answer": "Naturally occurring magnetic properties",
+    "category": "Magnetism"
+  },
+  {
+    "number": 4,
+    "question": "What is the chemical formula of magnetite, a natural magnet?",
+    "options": [
+      "Fe\u2082O\u2083",
+      "Fe\u2083O\u2084",
+      "FeO",
+      "FeSO\u2084"
+    ],
+    "answer": "Fe\u2083O\u2084",
+    "category": "Magnetism"
+  },
+  {
+    "number": 5,
+    "question": "Which property of natural magnets makes them useful in compasses?",
+    "options": [
+      "High electrical conductivity",
+      "Alignment with Earth\u2019s magnetic field",
+      "High melting point",
+      "Chemical stability"
+    ],
+    "answer": "Alignment with Earth\u2019s magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 6,
+    "question": "Which of the following is an example of an artificial magnet?",
+    "options": [
+      "Lodestone",
+      "Bar magnet",
+      "Magnetite",
+      "Hematite"
+    ],
+    "answer": "Bar magnet",
+    "category": "Magnetism"
+  },
+  {
+    "number": 7,
+    "question": "Artificial magnets are made from which material?",
+    "options": [
+      "Wood",
+      "Ferromagnetic materials",
+      "Plastic",
+      "Glass"
+    ],
+    "answer": "Ferromagnetic materials",
+    "category": "Magnetism"
+  },
+  {
+    "number": 8,
+    "question": "Which of the following shapes is NOT commonly used for artificial magnets?",
+    "options": [
+      "Bar",
+      "Horseshoe",
+      "Sphere",
+      "Cube"
+    ],
+    "answer": "Cube",
+    "category": "Magnetism"
+  },
+  {
+    "number": 9,
+    "question": "What is a temporary artificial magnet?",
+    "options": [
+      "A magnet that retains magnetism permanently",
+      "A magnet that loses magnetism when the magnetizing field is removed",
+      "A magnet made from lodestone",
+      "A magnet used only in compasses"
+    ],
+    "answer": "A magnet that loses magnetism when the magnetizing field is removed",
+    "category": "Magnetism"
+  },
+  {
+    "number": 10,
+    "question": "Which method is commonly used to create artificial magnets?",
+    "options": [
+      "Heating",
+      "Stroking with a magnet",
+      "Cooling",
+      "Dissolving in water"
+    ],
+    "answer": "Stroking with a magnet",
+    "category": "Magnetism"
+  },
+  {
+    "number": 11,
+    "question": "What is the region around a magnet where its influence is felt called?",
+    "options": [
+      "Magnetic field",
+      "Electric field",
+      "Gravitational field",
+      "Nuclear field"
+    ],
+    "answer": "Magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 12,
+    "question": "Which pole of a magnet attracts the opposite pole of another magnet?",
+    "options": [
+      "Like poles",
+      "Unlike poles",
+      "Neutral poles",
+      "Single poles"
+    ],
+    "answer": "Unlike poles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 13,
+    "question": "What happens when two like poles of magnets are brought close together?",
+    "options": [
+      "They attract",
+      "They repel",
+      "They neutralize",
+      "They merge"
+    ],
+    "answer": "They repel",
+    "category": "Magnetism"
+  },
+  {
+    "number": 14,
+    "question": "Where is the magnetic strength of a bar magnet maximum?",
+    "options": [
+      "At the center",
+      "At the poles",
+      "Along the sides",
+      "Uniform throughout"
+    ],
+    "answer": "At the poles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 15,
+    "question": "Which of the following is NOT a property of a magnet?",
+    "options": [
+      "Directive property",
+      "Attractive property",
+      "Conductive property",
+      "Pole existence in pairs"
+    ],
+    "answer": "Conductive property",
+    "category": "Magnetism"
+  },
+  {
+    "number": 16,
+    "question": "Which instrument is used to detect the presence of a magnetic field?",
+    "options": [
+      "Ammeter",
+      "Compass needle",
+      "Voltmeter",
+      "Galvanometer"
+    ],
+    "answer": "Compass needle",
+    "category": "Magnetism"
+  },
+  {
+    "number": 17,
+    "question": "What happens to a compass needle in a magnetic field?",
+    "options": [
+      "It vibrates rapidly",
+      "It aligns along the magnetic field lines",
+      "It becomes stationary",
+      "It points upward"
+    ],
+    "answer": "It aligns along the magnetic field lines",
+    "category": "Magnetism"
+  },
+  {
+    "number": 18,
+    "question": "Which material can be used to visualize magnetic field lines?",
+    "options": [
+      "Iron filings",
+      "Copper dust",
+      "Plastic shavings",
+      "Sugar crystals"
+    ],
+    "answer": "Iron filings",
+    "category": "Magnetism"
+  },
+  {
+    "number": 19,
+    "question": "What does a denser concentration of magnetic field lines indicate?",
+    "options": [
+      "Weaker magnetic field",
+      "Stronger magnetic field",
+      "No magnetic field",
+      "Uniform magnetic field"
+    ],
+    "answer": "Stronger magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 20,
+    "question": "Which of the following can detect a weak magnetic field?",
+    "options": [
+      "Bar magnet",
+      "Magnetic compass",
+      "Electromagnet",
+      "Iron rod"
+    ],
+    "answer": "Magnetic compass",
+    "category": "Magnetism"
+  },
+  {
+    "number": 21,
+    "question": "Which of the following is a magnetic substance?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Aluminum",
+      "Plastic"
+    ],
+    "answer": "Iron",
+    "category": "Magnetism"
+  },
+  {
+    "number": 22,
+    "question": "What is the defining characteristic of magnetic substances?",
+    "options": [
+      "They conduct electricity",
+      "They are attracted to magnets",
+      "They are insulators",
+      "They are transparent"
+    ],
+    "answer": "They are attracted to magnets",
+    "category": "Magnetism"
+  },
+  {
+    "number": 23,
+    "question": "Which of the following is NOT a magnetic substance?",
+    "options": [
+      "Nickel",
+      "Cobalt",
+      "Zinc",
+      "Iron"
+    ],
+    "answer": "Zinc",
+    "category": "Magnetism"
+  },
+  {
+    "number": 24,
+    "question": "Magnetic substances are primarily composed of which type of materials?",
+    "options": [
+      "Diamagnetic",
+      "Paramagnetic",
+      "Ferromagnetic",
+      "Non-magnetic"
+    ],
+    "answer": "Ferromagnetic",
+    "category": "Magnetism"
+  },
+  {
+    "number": 25,
+    "question": "What happens to a magnetic substance when placed in a magnetic field?",
+    "options": [
+      "It becomes non-magnetic",
+      "It aligns with the field",
+      "It repels the field",
+      "It becomes electrified"
+    ],
+    "answer": "It aligns with the field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 26,
+    "question": "Which of the following is a non-magnetic substance?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Cobalt",
+      "Nickel"
+    ],
+    "answer": "Copper",
+    "category": "Magnetism"
+  },
+  {
+    "number": 27,
+    "question": "Why are non-magnetic substances not affected by a magnetic field?",
+    "options": [
+      "They have no magnetic domains",
+      "They are too heavy",
+      "They conduct electricity",
+      "They are magnetic insulators"
+    ],
+    "answer": "They have no magnetic domains",
+    "category": "Magnetism"
+  },
+  {
+    "number": 28,
+    "question": "Which of the following is a common non-magnetic material?",
+    "options": [
+      "Aluminum",
+      "Steel",
+      "Iron",
+      "Cobalt"
+    ],
+    "answer": "Aluminum",
+    "category": "Magnetism"
+  },
+  {
+    "number": 29,
+    "question": "Which property distinguishes non-magnetic substances?",
+    "options": [
+      "Attraction to magnets",
+      "No response to magnetic fields",
+      "Strong magnetic fields",
+      "High electrical conductivity"
+    ],
+    "answer": "No response to magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 30,
+    "question": "Which of the following objects is likely made of a non-magnetic substance?",
+    "options": [
+      "Compass needle",
+      "Copper wire",
+      "Iron nail",
+      "Nickel coin"
+    ],
+    "answer": "Copper wire",
+    "category": "Magnetism"
+  },
+  {
+    "number": 31,
+    "question": "Which of the following is a diamagnetic material?",
+    "options": [
+      "Iron",
+      "Bismuth",
+      "Nickel",
+      "Cobalt"
+    ],
+    "answer": "Bismuth",
+    "category": "Magnetism"
+  },
+  {
+    "number": 32,
+    "question": "What happens to a diamagnetic material in a magnetic field?",
+    "options": [
+      "It is strongly attracted",
+      "It is weakly repelled",
+      "It aligns with the field",
+      "It becomes ferromagnetic"
+    ],
+    "answer": "It is weakly repelled",
+    "category": "Magnetism"
+  },
+  {
+    "number": 33,
+    "question": "Which property characterizes diamagnetic materials?",
+    "options": [
+      "Permanent magnetic moment",
+      "No unpaired electrons",
+      "Strong magnetic attraction",
+      "High magnetic permeability"
+    ],
+    "answer": "No unpaired electrons",
+    "category": "Magnetism"
+  },
+  {
+    "number": 34,
+    "question": "Which of the following is NOT a diamagnetic material?",
+    "options": [
+      "Water",
+      "Gold",
+      "Iron",
+      "Silver"
+    ],
+    "answer": "Iron",
+    "category": "Magnetism"
+  },
+  {
+    "number": 35,
+    "question": "What is the magnetic susceptibility of diamagnetic materials?",
+    "options": [
+      "Positive and large",
+      "Negative and small",
+      "Zero",
+      "Positive and small"
+    ],
+    "answer": "Negative and small",
+    "category": "Magnetism"
+  },
+  {
+    "number": 36,
+    "question": "Which of the following is a paramagnetic material?",
+    "options": [
+      "Aluminum",
+      "Iron",
+      "Copper",
+      "Zinc"
+    ],
+    "answer": "Aluminum",
+    "category": "Magnetism"
+  },
+  {
+    "number": 37,
+    "question": "What happens to paramagnetic materials in a magnetic field?",
+    "options": [
+      "They are strongly repelled",
+      "They are weakly attracted",
+      "They are unaffected",
+      "They become permanent magnets"
+    ],
+    "answer": "They are weakly attracted",
+    "category": "Magnetism"
+  },
+  {
+    "number": 38,
+    "question": "What causes paramagnetism in materials?",
+    "options": [
+      "Paired electrons",
+      "Unpaired electrons",
+      "No electrons",
+      "High conductivity"
+    ],
+    "answer": "Unpaired electrons",
+    "category": "Magnetism"
+  },
+  {
+    "number": 39,
+    "question": "Which of the following is NOT a paramagnetic material?",
+    "options": [
+      "Magnesium",
+      "Lithium",
+      "Copper",
+      "Sodium"
+    ],
+    "answer": "Copper",
+    "category": "Magnetism"
+  },
+  {
+    "number": 40,
+    "question": "What happens to the magnetism of a paramagnetic material when the external magnetic field is  removed?",
+    "options": [
+      "It retains its magnetism",
+      "It loses its magnetism",
+      "It becomes diamagnetic",
+      "It becomes ferromagnetic"
+    ],
+    "answer": "It loses its magnetism",
+    "category": "Magnetism"
+  },
+  {
+    "number": 41,
+    "question": "Which of the following is a ferromagnetic material?",
+    "options": [
+      "Iron",
+      "Aluminum",
+      "Copper",
+      "Silver"
+    ],
+    "answer": "Iron",
+    "category": "Magnetism"
+  },
+  {
+    "number": 42,
+    "question": "What is a key characteristic of ferromagnetic materials?",
+    "options": [
+      "Weak attraction to magnetic fields",
+      "Strong and permanent magnetism",
+      "Repulsion from magnetic fields",
+      "High electrical conductivity"
+    ],
+    "answer": "Strong and permanent magnetism",
+    "category": "Magnetism"
+  },
+  {
+    "number": 43,
+    "question": "Which of the following is NOT a ferromagnetic material?",
+    "options": [
+      "Iron",
+      "Nickel",
+      "Cobalt",
+      "Aluminum"
+    ],
+    "answer": "Aluminum",
+    "category": "Magnetism"
+  },
+  {
+    "number": 44,
+    "question": "What happens to ferromagnetic materials when magnetized?",
+    "options": [
+      "They lose their magnetism quickly",
+      "They retain magnetism for a long time",
+      "They become diamagnetic",
+      "They become non-magnetic"
+    ],
+    "answer": "They retain magnetism for a long time",
+    "category": "Magnetism"
+  },
+  {
+    "number": 45,
+    "question": "What is the Curie temperature of a ferromagnetic material?",
+    "options": [
+      "The temperature at which it melts",
+      "The temperature at which it loses ferromagnetism",
+      "The temperature at which it becomes paramagnetic",
+      "The temperature at which it becomes diamagnetic"
+    ],
+    "answer": "The temperature at which it loses ferromagnetism",
+    "category": "Magnetism"
+  },
+  {
+    "number": 46,
+    "question": "Which of the following is a method to create a magnet?",
+    "options": [
+      "Heating",
+      "Stroking",
+      "Cooling",
+      "Dissolving"
+    ],
+    "answer": "Stroking",
+    "category": "Magnetism"
+  },
+  {
+    "number": 47,
+    "question": "What is the single touch method of magnetization?",
+    "options": [
+      "Rubbing a magnet on a material in one direction",
+      "Heating a material in a magnetic field",
+      "Passing an electric current through a material",
+      "Cooling a material in a magnetic field"
+    ],
+    "answer": "Rubbing a magnet on a material in one direction",
+    "category": "Magnetism"
+  },
+  {
+    "number": 48,
+    "question": "Which material is commonly used in the mechanical method of magnetization?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Plastic",
+      "Wood"
+    ],
+    "answer": "Iron",
+    "category": "Magnetism"
+  },
+  {
+    "number": 49,
+    "question": "What is the electrical method of magnetization?",
+    "options": [
+      "Passing a current through a coil around a material",
+      "Rubbing a magnet on a material",
+      "Heating a material",
+      "Cooling a material"
+    ],
+    "answer": "Passing a current through a coil around a material",
+    "category": "Magnetism"
+  },
+  {
+    "number": 50,
+    "question": "What is a disadvantage of the mechanical method of magnetization?",
+    "options": [
+      "It is too fast",
+      "It creates weak magnets",
+      "It is expensive",
+      "It requires electricity"
+    ],
+    "answer": "It creates weak magnets",
+    "category": "Magnetism"
+  },
+  {
+    "number": 51,
+    "question": "What is the double touch method of magnetization?",
+    "options": [
+      "Using two magnets to stroke a material in opposite directions",
+      "Heating and cooling a material",
+      "Passing current through two coils",
+      "Using a single magnet twice"
+    ],
+    "answer": "Using two magnets to stroke a material in opposite directions",
+    "category": "Magnetism"
+  },
+  {
+    "number": 52,
+    "question": "Which of the following materials can be magnetized using the mechanical method?",
+    "options": [
+      "Copper",
+      "Steel",
+      "Plastic",
+      "Aluminum"
+    ],
+    "answer": "Steel",
+    "category": "Magnetism"
+  },
+  {
+    "number": 53,
+    "question": "What is a limitation of the stroking method?",
+    "options": [
+      "It is too expensive",
+      "It produces temporary magnets",
+      "It requires high voltage",
+      "It is ineffective for large objects"
+    ],
+    "answer": "It produces temporary magnets",
+    "category": "Magnetism"
+  },
+  {
+    "number": 54,
+    "question": "What is the purpose of aligning the material during the mechanical method?",
+    "options": [
+      "To increase electrical conductivity",
+      "To align magnetic domains",
+      "To reduce weight",
+      "To increase temperature"
+    ],
+    "answer": "To align magnetic domains",
+    "category": "Magnetism"
+  },
+  {
+    "number": 55,
+    "question": "Which mechanical method is most effective for creating strong magnets?",
+    "options": [
+      "Single touch",
+      "Double touch",
+      "Hammering",
+      "Heating"
+    ],
+    "answer": "Double touch",
+    "category": "Magnetism"
+  },
+  {
+    "number": 56,
+    "question": "What is the primary component used in the electrical method of magnetization?",
+    "options": [
+      "Battery",
+      "Solenoid",
+      "Compass",
+      "Iron filings"
+    ],
+    "answer": "Solenoid",
+    "category": "Magnetism"
+  },
+  {
+    "number": 57,
+    "question": "What type of current is typically used in the electrical method?",
+    "options": [
+      "Alternating current (AC)",
+      "Direct current (DC)",
+      "Pulsating current",
+      "High-frequency current"
+    ],
+    "answer": "Direct current (DC)",
+    "category": "Magnetism"
+  },
+  {
+    "number": 58,
+    "question": "What is the role of the solenoid in the electrical method?",
+    "options": [
+      "To generate heat",
+      "To create a strong magnetic field",
+      "To conduct electricity",
+      "To align iron filings"
+    ],
+    "answer": "To create a strong magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 59,
+    "question": "Which material is best suited for the electrical method of magnetization?",
+    "options": [
+      "Copper",
+      "Soft iron",
+      "Plastic",
+      "Wood"
+    ],
+    "answer": "Soft iron",
+    "category": "Magnetism"
+  },
+  {
+    "number": 60,
+    "question": "What is an advantage of the electrical method over the mechanical method?",
+    "options": [
+      "It is cheaper",
+      "It produces stronger magnets",
+      "It is faster",
+      "Both b and c"
+    ],
+    "answer": "Both b and c",
+    "category": "Magnetism"
+  },
+  {
+    "number": 61,
+    "question": "What is a common use of magnets in everyday life?",
+    "options": [
+      "Cooking",
+      "Magnetic door latches",
+      "Lighting",
+      "Heating"
+    ],
+    "answer": "Magnetic door latches",
+    "category": "Magnetism"
+  },
+  {
+    "number": 62,
+    "question": "Which device uses magnets to convert mechanical energy to electrical energy?",
+    "options": [
+      "Generator",
+      "Motor",
+      "Transformer",
+      "Battery"
+    ],
+    "answer": "Generator",
+    "category": "Magnetism"
+  },
+  {
+    "number": 63,
+    "question": "What is the role of magnets in a compass?",
+    "options": [
+      "To generate electricity",
+      "To align with Earth\u2019s magnetic field",
+      "To create light",
+      "To produce sound"
+    ],
+    "answer": "To align with Earth\u2019s magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 64,
+    "question": "Which medical technology uses powerful magnets?",
+    "options": [
+      "X-ray machine",
+      "MRI scanner",
+      "Ultrasound",
+      "CT scanner"
+    ],
+    "answer": "MRI scanner",
+    "category": "Magnetism"
+  },
+  {
+    "number": 65,
+    "question": "What is a use of magnets in data storage?",
+    "options": [
+      "Hard disk drives",
+      "Optical disks",
+      "Flash drives",
+      "Cloud storage"
+    ],
+    "answer": "Hard disk drives",
+    "category": "Magnetism"
+  },
+  {
+    "number": 66,
+    "question": "What is the Earth\u2019s magnetic field primarily caused by?",
+    "options": [
+      "Solar radiation",
+      "Molten iron in the outer core",
+      "Atmospheric pressure",
+      "Ocean currents"
+    ],
+    "answer": "Molten iron in the outer core",
+    "category": "Magnetism"
+  },
+  {
+    "number": 67,
+    "question": "What protects the Earth from harmful solar radiation?",
+    "options": [
+      "Magnetic field",
+      "Ozone layer",
+      "Both a and b",
+      "Ionosphere"
+    ],
+    "answer": "Both a and b",
+    "category": "Magnetism"
+  },
+  {
+    "number": 68,
+    "question": "What is the approximate shape of Earth\u2019s magnetic field?",
+    "options": [
+      "Spherical",
+      "Dipole",
+      "Cylindrical",
+      "Conical"
+    ],
+    "answer": "Dipole",
+    "category": "Magnetism"
+  },
+  {
+    "number": 69,
+    "question": "What is the magnetic north pole?",
+    "options": [
+      "The geographic North Pole",
+      "The point where magnetic field lines enter the Earth",
+      "The point where magnetic field lines exit the Earth",
+      "The center of the Earth"
+    ],
+    "answer": "The point where magnetic field lines enter the Earth",
+    "category": "Magnetism"
+  },
+  {
+    "number": 70,
+    "question": "How does Earth\u2019s magnetic field help in navigation?",
+    "options": [
+      "It powers compasses",
+      "It aligns compass needles",
+      "It generates electricity",
+      "It creates maps"
+    ],
+    "answer": "It aligns compass needles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 71,
+    "question": "What are magnetic lines of force?",
+    "options": [
+      "Lines of electric current",
+      "Imaginary lines representing the magnetic field",
+      "Lines of gravitational force",
+      "Lines of magnetic poles"
+    ],
+    "answer": "Imaginary lines representing the magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 72,
+    "question": "Where are magnetic lines of force closest together?",
+    "options": [
+      "At the center of the magnet",
+      "Near the poles",
+      "Far from the magnet",
+      "Uniformly spaced"
+    ],
+    "answer": "Near the poles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 73,
+    "question": "What do magnetic lines of force never do?",
+    "options": [
+      "Bend",
+      "Cross each other",
+      "Form loops",
+      "Exit the magnet"
+    ],
+    "answer": "Cross each other",
+    "category": "Magnetism"
+  },
+  {
+    "number": 74,
+    "question": "What is the direction of magnetic lines of force?",
+    "options": [
+      "From south to north",
+      "From north to south",
+      "Random",
+      "Circular"
+    ],
+    "answer": "From north to south",
+    "category": "Magnetism"
+  },
+  {
+    "number": 75,
+    "question": "What do magnetic lines of force indicate?",
+    "options": [
+      "Strength and direction of the magnetic field",
+      "Electric current flow",
+      "Temperature of the magnet",
+      "Weight of the magnet"
+    ],
+    "answer": "Strength and direction of the magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 76,
+    "question": "What is electromagnetism?",
+    "options": [
+      "The study of electric fields",
+      "The interaction of electric currents and magnetic fields",
+      "The study of gravitational forces",
+      "The study of nuclear forces"
+    ],
+    "answer": "The interaction of electric currents and magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 77,
+    "question": "Who discovered the principle of electromagnetism?",
+    "options": [
+      "Michael Faraday",
+      "Hans Christian Oersted",
+      "James Maxwell",
+      "Nikola Tesla"
+    ],
+    "answer": "Hans Christian Oersted",
+    "category": "Magnetism"
+  },
+  {
+    "number": 78,
+    "question": "What creates an electromagnetic field?",
+    "options": [
+      "A stationary charge",
+      "A moving charge",
+      "A stationary magnet",
+      "A heated magnet"
+    ],
+    "answer": "A moving charge",
+    "category": "Magnetism"
+  },
+  {
+    "number": 79,
+    "question": "What is an electromagnet?",
+    "options": [
+      "A permanent magnet",
+      "A magnet created by an electric current",
+      "A natural magnet",
+      "A non-magnetic material"
+    ],
+    "answer": "A magnet created by an electric current",
+    "category": "Magnetism"
+  },
+  {
+    "number": 80,
+    "question": "What happens to an electromagnet when the current is turned off?",
+    "options": [
+      "It retains its magnetism",
+      "It loses its magnetism",
+      "It becomes stronger",
+      "It reverses its poles"
+    ],
+    "answer": "It loses its magnetism",
+    "category": "Magnetism"
+  },
+  {
+    "number": 81,
+    "question": "Which instrument uses the magnetic effect of electric current to measure current?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Galvanometer",
+      "Ohmmeter"
+    ],
+    "answer": "Galvanometer",
+    "category": "Magnetism"
+  },
+  {
+    "number": 82,
+    "question": "What is the principle behind an electric motor?",
+    "options": [
+      "Electromagnetic induction",
+      "Magnetic effect of electric current",
+      "Electrostatic force",
+      "Gravitational force"
+    ],
+    "answer": "Magnetic effect of electric current",
+    "category": "Magnetism"
+  },
+  {
+    "number": 83,
+    "question": "Which device uses electromagnets to lift heavy loads?",
+    "options": [
+      "Transformer",
+      "Crane",
+      "Generator",
+      "Motor"
+    ],
+    "answer": "Crane",
+    "category": "Magnetism"
+  },
+  {
+    "number": 84,
+    "question": "What is the function of a solenoid in electromagnetic devices?",
+    "options": [
+      "To generate heat",
+      "To create a magnetic field",
+      "To conduct electricity",
+      "To measure voltage"
+    ],
+    "answer": "To create a magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 85,
+    "question": "Which of the following uses the magnetic effect of current in speakers?",
+    "options": [
+      "Permanent magnets",
+      "Electromagnets",
+      "Diamagnetic materials",
+      "Non-magnetic materials"
+    ],
+    "answer": "Electromagnets",
+    "category": "Magnetism"
+  },
+  {
+    "number": 86,
+    "question": "What is the primary mineral responsible for the magnetic properties of lodestone?",
+    "options": [
+      "Hematite",
+      "Magnetite",
+      "Pyrite",
+      "Quartz"
+    ],
+    "answer": "Magnetite",
+    "category": "Magnetism"
+  },
+  {
+    "number": 87,
+    "question": "Why do natural magnets have weaker magnetic fields compared to artificial magnets?",
+    "options": [
+      "Due to impure composition",
+      "Due to random domain alignment",
+      "Due to low density",
+      "Due to high resistivity"
+    ],
+    "answer": "Due to random domain alignment",
+    "category": "Magnetism"
+  },
+  {
+    "number": 88,
+    "question": "What is the role of magnetite\u2019s crystal structure in its magnetism?",
+    "options": [
+      "It prevents magnetism",
+      "It aligns magnetic domains",
+      "It conducts electricity",
+      "It repels magnetic fields"
+    ],
+    "answer": "It aligns magnetic domains",
+    "category": "Magnetism"
+  },
+  {
+    "number": 89,
+    "question": "Which process is believed to create natural magnets like lodestone?",
+    "options": [
+      "Lightning strikes",
+      "Volcanic cooling",
+      "Chemical reactions",
+      "Both a and b"
+    ],
+    "answer": "Both a and b",
+    "category": "Magnetism"
+  },
+  {
+    "number": 90,
+    "question": "What is the primary limitation of natural magnets?",
+    "options": [
+      "High cost",
+      "Weak and inconsistent magnetic fields",
+      "Large size",
+      "Fragility"
+    ],
+    "answer": "Weak and inconsistent magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 91,
+    "question": "Which material is commonly used to create strong artificial magnets?",
+    "options": [
+      "Soft iron",
+      "Neodymium",
+      "Aluminum",
+      "Copper"
+    ],
+    "answer": "Neodymium",
+    "category": "Magnetism"
+  },
+  {
+    "number": 92,
+    "question": "What is the advantage of alnico magnets?",
+    "options": [
+      "Low cost",
+      "High magnetic strength and stability",
+      "Lightweight",
+      "Easy to shape"
+    ],
+    "answer": "High magnetic strength and stability",
+    "category": "Magnetism"
+  },
+  {
+    "number": 93,
+    "question": "What is a key feature of rare-earth magnets?",
+    "options": [
+      "Weak magnetic fields",
+      "Extremely strong magnetic fields",
+      "Temporary magnetism",
+      "High electrical conductivity"
+    ],
+    "answer": "Extremely strong magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 94,
+    "question": "Why are artificial magnets preferred over natural magnets in industrial applications?",
+    "options": [
+      "They are cheaper",
+      "They have consistent and stronger fields",
+      "They are non-magnetic",
+      "They are easier to find"
+    ],
+    "answer": "They have consistent and stronger fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 95,
+    "question": "What is the coercivity of a magnet?",
+    "options": [
+      "Its ability to conduct electricity",
+      "Its resistance to demagnetization",
+      "Its weight",
+      "Its melting point"
+    ],
+    "answer": "Its resistance to demagnetization",
+    "category": "Magnetism"
+  },
+  {
+    "number": 96,
+    "question": "What is magnetic hysteresis?",
+    "options": [
+      "The loss of magnetism over time",
+      "The lag between magnetic field changes and magnetization",
+      "The attraction of like poles",
+      "The creation of magnetic fields"
+    ],
+    "answer": "The lag between magnetic field changes and magnetization",
+    "category": "Magnetism"
+  },
+  {
+    "number": 97,
+    "question": "What is the magnetic moment of a magnet?",
+    "options": [
+      "Its weight",
+      "Its magnetic strength and pole separation",
+      "Its electrical conductivity",
+      "Its temperature resistance"
+    ],
+    "answer": "Its magnetic strength and pole separation",
+    "category": "Magnetism"
+  },
+  {
+    "number": 98,
+    "question": "What happens to a magnet when it is cut in half?",
+    "options": [
+      "It loses its magnetism",
+      "Each piece becomes a magnet with two poles",
+      "It becomes non-magnetic",
+      "It becomes a single pole magnet"
+    ],
+    "answer": "Each piece becomes a magnet with two poles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 99,
+    "question": "What is the magnetic permeability of a material?",
+    "options": [
+      "Its ability to conduct electricity",
+      "Its ability to support a magnetic field",
+      "Its resistance to magnetic fields",
+      "Its thermal conductivity"
+    ],
+    "answer": "Its ability to support a magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 100,
+    "question": "What is the significance of the magnetic domains in a magnet?",
+    "options": [
+      "They determine the magnet\u2019s weight",
+      "They align to create a magnetic field",
+      "They conduct electricity",
+      "They prevent magnetism"
+    ],
+    "answer": "They align to create a magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 101,
+    "question": "What is the Hall effect used for in detecting magnetic fields?",
+    "options": [
+      "Measuring voltage in a conductor",
+      "Detecting magnetic fields through voltage generation",
+      "Measuring current flow",
+      "Measuring temperature"
+    ],
+    "answer": "Detecting magnetic fields through voltage generation",
+    "category": "Magnetism"
+  },
+  {
+    "number": 102,
+    "question": "What is a magnetometer?",
+    "options": [
+      "A device to measure electric current",
+      "A device to measure magnetic fields",
+      "A device to measure temperature",
+      "A device to measure pressure"
+    ],
+    "answer": "A device to measure magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 103,
+    "question": "What does a fluxgate magnetometer measure?",
+    "options": [
+      "Electric fields",
+      "Magnetic field strength and direction",
+      "Gravitational fields",
+      "Temperature gradients"
+    ],
+    "answer": "Magnetic field strength and direction",
+    "category": "Magnetism"
+  },
+  {
+    "number": 104,
+    "question": "How does a compass detect a magnetic field?",
+    "options": [
+      "By generating electricity",
+      "By aligning with magnetic field lines",
+      "By heating up",
+      "By vibrating"
+    ],
+    "answer": "By aligning with magnetic field lines",
+    "category": "Magnetism"
+  },
+  {
+    "number": 105,
+    "question": "What is the sensitivity of a superconducting quantum interference device (SQUID)?",
+    "options": [
+      "It detects weak electric fields",
+      "It detects extremely weak magnetic fields",
+      "It measures temperature changes",
+      "It measures pressure changes"
+    ],
+    "answer": "It detects extremely weak magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 106,
+    "question": "What is the magnetic susceptibility of a material?",
+    "options": [
+      "Its ability to conduct electricity",
+      "Its response to an external magnetic field",
+      "Its resistance to heat",
+      "Its density"
+    ],
+    "answer": "Its response to an external magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 107,
+    "question": "Which type of magnetic substance has the highest susceptibility?",
+    "options": [
+      "Diamagnetic",
+      "Paramagnetic",
+      "Ferromagnetic",
+      "Non-magnetic"
+    ],
+    "answer": "Ferromagnetic",
+    "category": "Magnetism"
+  },
+  {
+    "number": 108,
+    "question": "What is the role of magnetic domains in ferromagnetic materials?",
+    "options": [
+      "They conduct electricity",
+      "They create strong magnetic fields when aligned",
+      "They prevent magnetism",
+      "They reduce weight"
+    ],
+    "answer": "They create strong magnetic fields when aligned",
+    "category": "Magnetism"
+  },
+  {
+    "number": 109,
+    "question": "What is the effect of temperature on magnetic substances?",
+    "options": [
+      "It increases electrical conductivity",
+      "It can disrupt magnetic properties",
+      "It increases magnetism",
+      "It has no effect"
+    ],
+    "answer": "It can disrupt magnetic properties",
+    "category": "Magnetism"
+  },
+  {
+    "number": 110,
+    "question": "What is the primary difference between ferromagnetic and paramagnetic materials?",
+    "options": [
+      "Ferromagnetic materials are non-magnetic",
+      "Ferromagnetic materials retain magnetism",
+      "Paramagnetic materials are stronger magnets",
+      "Paramagnetic materials are permanent magnets"
+    ],
+    "answer": "Ferromagnetic materials retain magnetism",
+    "category": "Magnetism"
+  },
+  {
+    "number": 111,
+    "question": "What is the magnetic susceptibility of diamagnetic materials?",
+    "options": [
+      "Positive and large",
+      "Negative and small",
+      "Zero",
+      "Positive and small"
+    ],
+    "answer": "Negative and small",
+    "category": "Magnetism"
+  },
+  {
+    "number": 112,
+    "question": "Why are diamagnetic materials weakly repelled by magnetic fields?",
+    "options": [
+      "Due to paired electrons",
+      "Due to unpaired electrons",
+      "Due to high conductivity",
+      "Due to high density"
+    ],
+    "answer": "Due to paired electrons",
+    "category": "Magnetism"
+  },
+  {
+    "number": 113,
+    "question": "Which of the following exhibits strong diamagnetism?",
+    "options": [
+      "Iron",
+      "Bismuth",
+      "Nickel",
+      "Cobalt"
+    ],
+    "answer": "Bismuth",
+    "category": "Magnetism"
+  },
+  {
+    "number": 114,
+    "question": "What is the Meissner effect in superconductors?",
+    "options": [
+      "Strong attraction to magnetic fields",
+      "Expulsion of magnetic fields",
+      "Creation of magnetic fields",
+      "Alignment of magnetic fields"
+    ],
+    "answer": "Expulsion of magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 115,
+    "question": "What is a practical application of diamagnetism?",
+    "options": [
+      "Magnetic levitation",
+      "Electric motors",
+      "Transformers",
+      "Generators"
+    ],
+    "answer": "Magnetic levitation",
+    "category": "Magnetism"
+  },
+  {
+    "number": 116,
+    "question": "What is the magnetic susceptibility of paramagnetic materials?",
+    "options": [
+      "Negative",
+      "Positive and small",
+      "Zero",
+      "Positive and large"
+    ],
+    "answer": "Positive and small",
+    "category": "Magnetism"
+  },
+  {
+    "number": 117,
+    "question": "Why do paramagnetic materials lose magnetism without an external field?",
+    "options": [
+      "Due to random thermal motion",
+      "Due to electrical conductivity",
+      "Due to high density",
+      "Due to chemical reactions"
+    ],
+    "answer": "Due to random thermal motion",
+    "category": "Magnetism"
+  },
+  {
+    "number": 118,
+    "question": "Which of the following is a strongly paramagnetic material?",
+    "options": [
+      "Platinum",
+      "Copper",
+      "Zinc",
+      "Gold"
+    ],
+    "answer": "Platinum",
+    "category": "Magnetism"
+  },
+  {
+    "number": 119,
+    "question": "What is the effect of low temperature on paramagnetic materials?",
+    "options": [
+      "Increases magnetism",
+      "Decreases magnetism",
+      "No effect",
+      "Reverses magnetism"
+    ],
+    "answer": "Increases magnetism",
+    "category": "Magnetism"
+  },
+  {
+    "number": 120,
+    "question": "What is Curie\u2019s law related to paramagnetic materials?",
+    "options": [
+      "Magnetism increases with temperature",
+      "Magnetism is inversely proportional to temperature",
+      "Magnetism is constant",
+      "Magnetism is proportional to pressure"
+    ],
+    "answer": "Magnetism is inversely proportional to temperature",
+    "category": "Magnetism"
+  },
+  {
+    "number": 121,
+    "question": "What is the hysteresis loop of a ferromagnetic material?",
+    "options": [
+      "A graph of temperature vs. magnetism",
+      "A graph of magnetic field vs. magnetization",
+      "A graph of current vs. voltage",
+      "A graph of pressure vs. density"
+    ],
+    "answer": "A graph of magnetic field vs. magnetization",
+    "category": "Magnetism"
+  },
+  {
+    "number": 122,
+    "question": "What is the coercivity of a ferromagnetic material?",
+    "options": [
+      "Its ability to conduct electricity",
+      "Its resistance to demagnetization",
+      "Its thermal conductivity",
+      "Its density"
+    ],
+    "answer": "Its resistance to demagnetization",
+    "category": "Magnetism"
+  },
+  {
+    "number": 123,
+    "question": "What is the saturation magnetization of a ferromagnetic material?",
+    "options": [
+      "Maximum magnetization possible",
+      "Minimum magnetization possible",
+      "Magnetization at high temperature",
+      "Magnetization at low temperature"
+    ],
+    "answer": "Maximum magnetization possible",
+    "category": "Magnetism"
+  },
+  {
+    "number": 124,
+    "question": "What happens to ferromagnetic materials above the Curie temperature?",
+    "options": [
+      "They become paramagnetic",
+      "They become diamagnetic",
+      "They become non-magnetic",
+      "They become superconductors"
+    ],
+    "answer": "They become paramagnetic",
+    "category": "Magnetism"
+  },
+  {
+    "number": 125,
+    "question": "Which ferromagnetic material has the highest Curie temperature?",
+    "options": [
+      "Iron",
+      "Nickel",
+      "Cobalt",
+      "Gadolinium"
+    ],
+    "answer": "Cobalt",
+    "category": "Magnetism"
+  },
+  {
+    "number": 126,
+    "question": "What is the role of domain alignment in the mechanical method?",
+    "options": [
+      "To increase electrical conductivity",
+      "To create a magnetic field",
+      "To reduce weight",
+      "To increase temperature"
+    ],
+    "answer": "To create a magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 127,
+    "question": "Why is the double touch method more effective than single touch?",
+    "options": [
+      "It uses two magnets",
+      "It aligns domains more uniformly",
+      "It is faster",
+      "It is cheaper"
+    ],
+    "answer": "It aligns domains more uniformly",
+    "category": "Magnetism"
+  },
+  {
+    "number": 128,
+    "question": "What is a limitation of the mechanical method?",
+    "options": [
+      "It requires electricity",
+      "It produces weak magnets",
+      "It is expensive",
+      "It is slow"
+    ],
+    "answer": "It produces weak magnets",
+    "category": "Magnetism"
+  },
+  {
+    "number": 129,
+    "question": "What material is best suited for the mechanical method?",
+    "options": [
+      "Soft iron",
+      "Copper",
+      "Aluminum",
+      "Plastic"
+    ],
+    "answer": "Soft iron",
+    "category": "Magnetism"
+  },
+  {
+    "number": 130,
+    "question": "What is the effect of repeated stroking in the mechanical method?",
+    "options": [
+      "Increases magnetism",
+      "Decreases magnetism",
+      "No effect",
+      "Reverses polarity"
+    ],
+    "answer": "Increases magnetism",
+    "category": "Magnetism"
+  },
+  {
+    "number": 131,
+    "question": "What is the role of the solenoid in the electrical method?",
+    "options": [
+      "To generate heat",
+      "To create a strong magnetic field",
+      "To conduct electricity",
+      "To measure voltage"
+    ],
+    "answer": "To create a strong magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 132,
+    "question": "Why is DC preferred over AC in the electrical method?",
+    "options": [
+      "DC creates a stable magnetic field",
+      "AC is too weak",
+      "DC is cheaper",
+      "AC reverses polarity"
+    ],
+    "answer": "DC creates a stable magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 133,
+    "question": "What is the effect of increasing current in the electrical method?",
+    "options": [
+      "Weaker magnetic field",
+      "Stronger magnetic field",
+      "No effect",
+      "Reversed polarity"
+    ],
+    "answer": "Stronger magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 134,
+    "question": "What is a disadvantage of the electrical method?",
+    "options": [
+      "It is slow",
+      "It requires a power source",
+      "It produces weak magnets",
+      "It is ineffective"
+    ],
+    "answer": "It requires a power source",
+    "category": "Magnetism"
+  },
+  {
+    "number": 135,
+    "question": "What is the role of soft iron in the electrical method?",
+    "options": [
+      "It conducts electricity",
+      "It becomes magnetized easily",
+      "It prevents magnetism",
+      "It reduces current"
+    ],
+    "answer": "It becomes magnetized easily",
+    "category": "Magnetism"
+  },
+  {
+    "number": 136,
+    "question": "What is the role of magnets in MRI machines?",
+    "options": [
+      "To generate X-rays",
+      "To create strong magnetic fields",
+      "To produce ultrasound",
+      "To measure temperature"
+    ],
+    "answer": "To create strong magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 137,
+    "question": "How do magnets function in hard disk drives?",
+    "options": [
+      "They store data magnetically",
+      "They generate electricity",
+      "They cool the system",
+      "They create light"
+    ],
+    "answer": "They store data magnetically",
+    "category": "Magnetism"
+  },
+  {
+    "number": 138,
+    "question": "What is the use of magnets in magnetic separators?",
+    "options": [
+      "To separate non-magnetic materials",
+      "To generate heat",
+      "To conduct electricity",
+      "To measure pressure"
+    ],
+    "answer": "To separate non-magnetic materials",
+    "category": "Magnetism"
+  },
+  {
+    "number": 139,
+    "question": "What is the role of magnets in loudspeakers?",
+    "options": [
+      "To create sound vibrations",
+      "To generate electricity",
+      "To measure sound waves",
+      "To amplify light"
+    ],
+    "answer": "To create sound vibrations",
+    "category": "Magnetism"
+  },
+  {
+    "number": 140,
+    "question": "What is a maglev train?",
+    "options": [
+      "A train powered by electricity",
+      "A train using magnetic levitation",
+      "A train using steam",
+      "A train using diesel"
+    ],
+    "answer": "A train using magnetic levitation",
+    "category": "Magnetism"
+  },
+  {
+    "number": 141,
+    "question": "What is the geomagnetic dynamo?",
+    "options": [
+      "A device to measure magnetic fields",
+      "The process generating Earth\u2019s magnetic field",
+      "A type of magnet",
+      "A navigation tool"
+    ],
+    "answer": "The process generating Earth\u2019s magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 142,
+    "question": "What are Van Allen belts?",
+    "options": [
+      "Magnetic field lines",
+      "Radiation belts trapped by Earth\u2019s magnetic field",
+      "Atmospheric layers",
+      "Ocean currents"
+    ],
+    "answer": "Radiation belts trapped by Earth\u2019s magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 143,
+    "question": "What is a geomagnetic storm?",
+    "options": [
+      "A storm caused by lightning",
+      "A disturbance in Earth\u2019s magnetic field",
+      "A type of earthquake",
+      "A weather phenomenon"
+    ],
+    "answer": "A disturbance in Earth\u2019s magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 144,
+    "question": "How does Earth\u2019s magnetic field protect satellites?",
+    "options": [
+      "By deflecting solar wind",
+      "By generating electricity",
+      "By cooling them",
+      "By increasing their speed"
+    ],
+    "answer": "By deflecting solar wind",
+    "category": "Magnetism"
+  },
+  {
+    "number": 145,
+    "question": "What is the effect of a magnetic pole reversal?",
+    "options": [
+      "No effect on Earth",
+      "Weakening of the magnetic field",
+      "Increased magnetism",
+      "Permanent loss of magnetism"
+    ],
+    "answer": "Weakening of the magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 146,
+    "question": "What is the mathematical representation of a magnetic field line?",
+    "options": [
+      "A straight line",
+      "A tangent to the magnetic field vector",
+      "A circle",
+      "A parabola"
+    ],
+    "answer": "A tangent to the magnetic field vector",
+    "category": "Magnetism"
+  },
+  {
+    "number": 147,
+    "question": "What is the magnetic flux through a closed surface around a bar magnet?",
+    "options": [
+      "Zero",
+      "Positive",
+      "Negative",
+      "Infinite"
+    ],
+    "answer": "Zero",
+    "category": "Magnetism"
+  },
+  {
+    "number": 148,
+    "question": "What is the significance of the density of magnetic field lines?",
+    "options": [
+      "Indicates field strength",
+      "Indicates temperature",
+      "Indicates pressure",
+      "Indicates conductivity"
+    ],
+    "answer": "Indicates field strength",
+    "category": "Magnetism"
+  },
+  {
+    "number": 149,
+    "question": "What is the shape of magnetic field lines around a bar magnet?",
+    "options": [
+      "Straight lines",
+      "Closed loops",
+      "Spirals",
+      "Random paths"
+    ],
+    "answer": "Closed loops",
+    "category": "Magnetism"
+  },
+  {
+    "number": 150,
+    "question": "What is the magnetic field strength at the center of a bar magnet?",
+    "options": [
+      "Maximum",
+      "Minimum",
+      "Zero",
+      "Uniform"
+    ],
+    "answer": "Minimum",
+    "category": "Magnetism"
+  },
+  {
+    "number": 151,
+    "question": "What is the Lorentz force?",
+    "options": [
+      "The force on a charged particle in an electromagnetic field",
+      "The force of gravity",
+      "The force of friction",
+      "The nuclear force"
+    ],
+    "answer": "The force on a charged particle in an electromagnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 152,
+    "question": "What is Faraday\u2019s law of electromagnetic induction?",
+    "options": [
+      "A changing magnetic field induces an electric current",
+      "A current creates a magnetic field",
+      "Like poles repel",
+      "Magnetic fields are constant"
+    ],
+    "answer": "A changing magnetic field induces an electric current",
+    "category": "Magnetism"
+  },
+  {
+    "number": 153,
+    "question": "What is the right-hand rule in electromagnetism?",
+    "options": [
+      "Determines the direction of current",
+      "Determines the direction of the magnetic field",
+      "Determines the direction of gravity",
+      "Determines the direction of voltage"
+    ],
+    "answer": "Determines the direction of the magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 154,
+    "question": "What is the magnetic field inside a solenoid?",
+    "options": [
+      "Zero",
+      "Uniform and strong",
+      "Weak and non-uniform",
+      "Random"
+    ],
+    "answer": "Uniform and strong",
+    "category": "Magnetism"
+  },
+  {
+    "number": 155,
+    "question": "What is the Biot-Savart law?",
+    "options": [
+      "Describes the magnetic field due to a current-carrying conductor",
+      "Describes electric fields",
+      "Describes gravitational fields",
+      "Describes nuclear forces"
+    ],
+    "answer": "Describes the magnetic field due to a current-carrying conductor",
+    "category": "Magnetism"
+  },
+  {
+    "number": 156,
+    "question": "What is the principle of a galvanometer?",
+    "options": [
+      "Electromagnetic induction",
+      "Magnetic effect of current",
+      "Electrostatic force",
+      "Thermal effect"
+    ],
+    "answer": "Magnetic effect of current",
+    "category": "Magnetism"
+  },
+  {
+    "number": 157,
+    "question": "What is the role of the armature in an electric motor?",
+    "options": [
+      "To generate heat",
+      "To rotate in a magnetic field",
+      "To store electricity",
+      "To measure voltage"
+    ],
+    "answer": "To rotate in a magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 158,
+    "question": "What is a transformer?",
+    "options": [
+      "A device that converts mechanical energy to electrical energy",
+      "A device that changes voltage using electromagnetic induction",
+      "A device that measures current",
+      "A device that stores energy"
+    ],
+    "answer": "A device that changes voltage using electromagnetic induction",
+    "category": "Magnetism"
+  },
+  {
+    "number": 159,
+    "question": "What is the function of a relay?",
+    "options": [
+      "To amplify signals",
+      "To control circuits using an electromagnet",
+      "To measure magnetic fields",
+      "To generate electricity"
+    ],
+    "answer": "To control circuits using an electromagnet",
+    "category": "Magnetism"
+  },
+  {
+    "number": 160,
+    "question": "What is the role of magnets in a cyclotron?",
+    "options": [
+      "To accelerate charged particles",
+      "To generate electricity",
+      "To measure radiation",
+      "To cool the system"
+    ],
+    "answer": "To accelerate charged particles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 161,
+    "question": "What is the primary source of magnetism in lodestone?",
+    "options": [
+      "Chemical reactions",
+      "Aligned magnetic domains",
+      "Electric currents",
+      "Nuclear forces"
+    ],
+    "answer": "Aligned magnetic domains",
+    "category": "Magnetism"
+  },
+  {
+    "number": 162,
+    "question": "What is the magnetic moment of magnetite?",
+    "options": [
+      "Zero",
+      "High due to domain alignment",
+      "Low due to random domains",
+      "Negative"
+    ],
+    "answer": "High due to domain alignment",
+    "category": "Magnetism"
+  },
+  {
+    "number": 163,
+    "question": "What geological process is most likely responsible for magnetizing lodestone in nature?",
+    "options": [
+      "Volcanic eruptions",
+      "Lightning-induced magnetic fields",
+      "Chemical precipitation",
+      "Mechanical stress"
+    ],
+    "answer": "Lightning-induced magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 164,
+    "question": "What is the magnetic anisotropy of natural magnets?",
+    "options": [
+      "The uniform magnetic field strength",
+      "The directional dependence of magnetic properties",
+      "The resistance to electric fields",
+      "The ability to conduct heat"
+    ],
+    "answer": "The directional dependence of magnetic properties",
+    "category": "Magnetism"
+  },
+  {
+    "number": 165,
+    "question": "Why are natural magnets rarely used in modern applications?",
+    "options": [
+      "They are too expensive",
+      "They have inconsistent magnetic properties",
+      "They are non-magnetic",
+      "They are highly radioactive"
+    ],
+    "answer": "They have inconsistent magnetic properties",
+    "category": "Magnetism"
+  },
+  {
+    "number": 166,
+    "question": "What is the primary advantage of neodymium magnets over other artificial magnets?",
+    "options": [
+      "Low cost",
+      "High magnetic strength per unit volume",
+      "High electrical conductivity",
+      "Resistance to heat"
+    ],
+    "answer": "High magnetic strength per unit volume",
+    "category": "Magnetism"
+  },
+  {
+    "number": 167,
+    "question": "What is the role of alloying in artificial magnets like alnico?",
+    "options": [
+      "To reduce magnetism",
+      "To enhance magnetic stability and strength",
+      "To increase electrical resistance",
+      "To make them lighter"
+    ],
+    "answer": "To enhance magnetic stability and strength",
+    "category": "Magnetism"
+  },
+  {
+    "number": 168,
+    "question": "What is the primary limitation of ceramic (ferrite) magnets?",
+    "options": [
+      "Weak magnetic fields",
+      "Brittleness and low strength",
+      "High cost",
+      "Low electrical conductivity"
+    ],
+    "answer": "Brittleness and low strength",
+    "category": "Magnetism"
+  },
+  {
+    "number": 169,
+    "question": "What is the remanence of an artificial magnet?",
+    "options": [
+      "The magnetic field strength after magnetization",
+      "The resistance to demagnetization",
+      "The ability to conduct electricity",
+      "The weight of the magnet"
+    ],
+    "answer": "The magnetic field strength after magnetization",
+    "category": "Magnetism"
+  },
+  {
+    "number": 170,
+    "question": "What is the primary use of samarium-cobalt magnets?",
+    "options": [
+      "Low-cost applications",
+      "High-temperature environments",
+      "Temporary magnetism",
+      "Electrical insulation"
+    ],
+    "answer": "High-temperature environments",
+    "category": "Magnetism"
+  },
+  {
+    "number": 171,
+    "question": "What is the magnetic energy product of a magnet?",
+    "options": [
+      "The maximum energy stored in its magnetic field",
+      "The heat generated by the magnet",
+      "The electrical energy produced",
+      "The gravitational energy stored"
+    ],
+    "answer": "The maximum energy stored in its magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 172,
+    "question": "What happens to the magnetic domains when a magnet is demagnetized?",
+    "options": [
+      "They align uniformly",
+      "They become randomly oriented",
+      "They disappear completely",
+      "They conduct electricity"
+    ],
+    "answer": "They become randomly oriented",
+    "category": "Magnetism"
+  },
+  {
+    "number": 173,
+    "question": "What is the significance of the Curie point in magnets?",
+    "options": [
+      "The temperature at which magnetism is lost",
+      "The temperature at which magnetism increases",
+      "The melting point of the magnet",
+      "The point of maximum electrical conductivity"
+    ],
+    "answer": "The temperature at which magnetism is lost",
+    "category": "Magnetism"
+  },
+  {
+    "number": 174,
+    "question": "What is the magnetic dipole moment of a bar magnet proportional to?",
+    "options": [
+      "Its length",
+      "Its pole strength and distance between poles",
+      "Its weight",
+      "Its electrical conductivity"
+    ],
+    "answer": "Its pole strength and distance between poles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 175,
+    "question": "What is the effect of mechanical stress on a magnet\u2019s properties?",
+    "options": [
+      "Increases magnetism",
+      "Can disrupt magnetic domain alignment",
+      "Enhances electrical conductivity",
+      "Reduces weight"
+    ],
+    "answer": "Can disrupt magnetic domain alignment",
+    "category": "Magnetism"
+  },
+  {
+    "number": 176,
+    "question": "What is the Weiss domain in ferromagnetic materials?",
+    "options": [
+      "A region of aligned magnetic moments",
+      "A region of electric charge",
+      "A region of high conductivity",
+      "A region of low density"
+    ],
+    "answer": "A region of aligned magnetic moments",
+    "category": "Magnetism"
+  },
+  {
+    "number": 177,
+    "question": "What is the magnetic saturation of a material?",
+    "options": [
+      "The point where no further magnetization occurs",
+      "The point of maximum electrical conductivity",
+      "The point of minimum magnetic field",
+      "The point of maximum temperature"
+    ],
+    "answer": "The point where no further magnetization occurs",
+    "category": "Magnetism"
+  },
+  {
+    "number": 178,
+    "question": "What is the primary difference between soft and hard magnetic materials?",
+    "options": [
+      "Soft materials are non-magnetic",
+      "Hard materials retain magnetism longer",
+      "Soft materials are heavier",
+      "Hard materials are diamagnetic"
+    ],
+    "answer": "Hard materials retain magnetism longer",
+    "category": "Magnetism"
+  },
+  {
+    "number": 179,
+    "question": "What is the role of exchange interaction in ferromagnetic materials?",
+    "options": [
+      "It aligns electron spins",
+      "It conducts electricity",
+      "It generates heat",
+      "It reduces magnetism"
+    ],
+    "answer": "It aligns electron spins",
+    "category": "Magnetism"
+  },
+  {
+    "number": 180,
+    "question": "What is the effect of impurities on magnetic substances?",
+    "options": [
+      "They always increase magnetism",
+      "They can disrupt magnetic domain alignment",
+      "They have no effect",
+      "They make materials non-magnetic"
+    ],
+    "answer": "They can disrupt magnetic domain alignment",
+    "category": "Magnetism"
+  },
+  {
+    "number": 181,
+    "question": "What is the role of magnets in magnetic refrigeration?",
+    "options": [
+      "To generate electricity",
+      "To create a magnetocaloric effect",
+      "To measure temperature",
+      "To produce sound"
+    ],
+    "answer": "To create a magnetocaloric effect",
+    "category": "Magnetism"
+  },
+  {
+    "number": 182,
+    "question": "How are magnets used in magnetic resonance spectroscopy?",
+    "options": [
+      "To align atomic nuclei",
+      "To generate X-rays",
+      "To measure electrical conductivity",
+      "To cool the system"
+    ],
+    "answer": "To align atomic nuclei",
+    "category": "Magnetism"
+  },
+  {
+    "number": 183,
+    "question": "What is the function of magnets in particle accelerators?",
+    "options": [
+      "To generate heat",
+      "To steer charged particles",
+      "To measure radiation",
+      "To store energy"
+    ],
+    "answer": "To steer charged particles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 184,
+    "question": "What is the use of magnets in magnetic sensors?",
+    "options": [
+      "To detect changes in magnetic fields",
+      "To generate electricity",
+      "To measure temperature",
+      "To amplify sound"
+    ],
+    "answer": "To detect changes in magnetic fields",
+    "category": "Magnetism"
+  },
+  {
+    "number": 185,
+    "question": "What is the role of magnets in magnetic levitation (maglev) systems?",
+    "options": [
+      "To reduce friction by levitating objects",
+      "To generate electrical current",
+      "To measure speed",
+      "To cool the system"
+    ],
+    "answer": "To reduce friction by levitating objects",
+    "category": "Magnetism"
+  },
+  {
+    "number": 186,
+    "question": "What is the magnetic flux density?",
+    "options": [
+      "The number of magnetic field lines per unit area",
+      "The total magnetic field strength",
+      "The electrical conductivity of a magnet",
+      "The weight of the magnet"
+    ],
+    "answer": "The number of magnetic field lines per unit area",
+    "category": "Magnetism"
+  },
+  {
+    "number": 187,
+    "question": "What is Gauss\u2019s law for magnetism?",
+    "options": [
+      "Magnetic monopoles exist",
+      "The net magnetic flux through a closed surface is zero",
+      "Magnetic fields are constant",
+      "Magnetic fields are proportional to electric fields"
+    ],
+    "answer": "The net magnetic flux through a closed surface is zero",
+    "category": "Magnetism"
+  },
+  {
+    "number": 188,
+    "question": "What is the magnetic field strength at a point far from a bar magnet?",
+    "options": [
+      "Proportional to 1/r",
+      "Proportional to 1/r\u00b2",
+      "Proportional to 1/r\u00b3",
+      "Constant"
+    ],
+    "answer": "Proportional to 1/r\u00b3",
+    "category": "Magnetism"
+  },
+  {
+    "number": 189,
+    "question": "What is the significance of closed magnetic field lines?",
+    "options": [
+      "They indicate the absence of magnetic monopoles",
+      "They indicate electric fields",
+      "They indicate gravitational forces",
+      "They indicate nuclear forces"
+    ],
+    "answer": "They indicate the absence of magnetic monopoles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 190,
+    "question": "What is the vector potential in a magnetic field?",
+    "options": [
+      "A scalar quantity describing field strength",
+      "A vector quantity related to the magnetic field",
+      "A measure of electric current",
+      "A measure of temperature"
+    ],
+    "answer": "A vector quantity related to the magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 191,
+    "question": "What is Maxwell\u2019s first equation related to magnetism?",
+    "options": [
+      "Gauss\u2019s law for electricity",
+      "Gauss\u2019s law for magnetism",
+      "Faraday\u2019s law",
+      "Ampere\u2019s law"
+    ],
+    "answer": "Gauss\u2019s law for magnetism",
+    "category": "Magnetism"
+  },
+  {
+    "number": 192,
+    "question": "What is the significance of Ampere\u2019s circuital law?",
+    "options": [
+      "It relates magnetic fields to electric currents",
+      "It describes gravitational fields",
+      "It measures electric potential",
+      "It calculates thermal energy"
+    ],
+    "answer": "It relates magnetic fields to electric currents",
+    "category": "Magnetism"
+  },
+  {
+    "number": 193,
+    "question": "What is the magnetic field inside an ideal solenoid?",
+    "options": [
+      "B = \u03bc\u2080nI",
+      "B = \u03bc\u2080I/n",
+      "B = \u03bc\u2080n/I",
+      "B = 0"
+    ],
+    "answer": "B = \u03bc\u2080nI",
+    "category": "Magnetism"
+  },
+  {
+    "number": 194,
+    "question": "What is the energy stored in a magnetic field?",
+    "options": [
+      "U = \u00bd LI\u00b2 (for an inductor)",
+      "U = \u00bd CV\u00b2",
+      "U = mgh",
+      "U = qV"
+    ],
+    "answer": "U = \u00bd LI\u00b2 (for an inductor)",
+    "category": "Magnetism"
+  },
+  {
+    "number": 195,
+    "question": "What is the effect of a changing magnetic field on a conductor?",
+    "options": [
+      "It induces an electric current",
+      "It increases temperature",
+      "It reduces magnetism",
+      "It generates heat only"
+    ],
+    "answer": "It induces an electric current",
+    "category": "Magnetism"
+  },
+  {
+    "number": 196,
+    "question": "What is the principle behind a moving coil galvanometer?",
+    "options": [
+      "Torque on a current-carrying coil in a magnetic field",
+      "Electromagnetic induction",
+      "Electrostatic attraction",
+      "Thermal expansion"
+    ],
+    "answer": "Torque on a current-carrying coil in a magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 197,
+    "question": "What is the role of a commutator in an electric motor?",
+    "options": [
+      "To reverse current direction",
+      "To generate electricity",
+      "To measure voltage",
+      "To cool the system"
+    ],
+    "answer": "To reverse current direction",
+    "category": "Magnetism"
+  },
+  {
+    "number": 198,
+    "question": "What is the function of a magnetic torque sensor?",
+    "options": [
+      "To measure rotational force in a magnetic field",
+      "To generate electricity",
+      "To measure temperature",
+      "To amplify sound"
+    ],
+    "answer": "To measure rotational force in a magnetic field",
+    "category": "Magnetism"
+  },
+  {
+    "number": 199,
+    "question": "What is the role of electromagnets in a mass spectrometer?",
+    "options": [
+      "To generate light",
+      "To deflect charged particles",
+      "To measure temperature",
+      "To store energy"
+    ],
+    "answer": "To deflect charged particles",
+    "category": "Magnetism"
+  },
+  {
+    "number": 200,
+    "question": "What is the principle of a linear induction motor?",
+    "options": [
+      "Magnetic effect of current creating linear motion",
+      "Gravitational force",
+      "Electrostatic force",
+      "Nuclear force"
+    ],
+    "answer": "Magnetic effect of current creating linear motion",
+    "category": "Magnetism"
+  }
+]

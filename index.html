@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MCQ Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+</head>
+<body>
+  <label class="theme-switch">
+    <input type="checkbox" id="themeToggle" onchange="toggleDarkMode(this)">
+    🌙 Dark Mode
+  </label>
+  <div class="container">
+    <h1>MCQ Quiz</h1>
+    <select id="categoryFilter" onchange="filterByCategory()">
+      <option value="All">All Topics</option>
+      <option value="Electricity">Electricity</option>
+      <option value="Magnetism">Magnetism</option>
+    </select>
+    <form id="quizForm"></form>
+    <div id="result"></div>
+  </div>
+
+</body>
+</html>
